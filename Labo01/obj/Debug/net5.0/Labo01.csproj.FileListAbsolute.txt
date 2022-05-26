@@ -1,0 +1,16 @@
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/bin/Debug/net5.0/Labo01
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/bin/Debug/net5.0/Labo01.deps.json
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/bin/Debug/net5.0/Labo01.runtimeconfig.json
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/bin/Debug/net5.0/Labo01.runtimeconfig.dev.json
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/bin/Debug/net5.0/Labo01.dll
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/bin/Debug/net5.0/Labo01.pdb
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/obj/Debug/net5.0/Labo01.csproj.AssemblyReference.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/obj/Debug/net5.0/Labo01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/obj/Debug/net5.0/Labo01.AssemblyInfoInputs.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/obj/Debug/net5.0/Labo01.AssemblyInfo.cs
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/obj/Debug/net5.0/Labo01.csproj.CoreCompileInputs.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/obj/Debug/net5.0/Labo01.dll
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/obj/Debug/net5.0/refint/Labo01.dll
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/obj/Debug/net5.0/Labo01.pdb
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/obj/Debug/net5.0/Labo01.genruntimeconfig.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Labo01/obj/Debug/net5.0/ref/Labo01.dll
