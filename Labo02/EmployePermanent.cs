@@ -19,16 +19,18 @@ namespace Labo02
             this.taux_cotisation_retraite = cotisation_retraite;
         }
 
-        public float salaire_hebdomadaire(float heures)
+/*      Transéférée vers classe Employe
+        public float Salaire_hebdomadaire(float heures)
         {
             return (heures - Supplementaires(heures)) * taux_horaire 
                     + (Supplementaires(heures) * taux_horaire * 1.5f);
         }
-
-        public float paie_hebdomadaire(float heures)
+*/
+ 
+        public float Paie_hebdomadaire(float heures)
         {
-            return salaire_hebdomadaire(heures) 
-                    - (1 - taux_impot / 100 - taux_cotisation_retraite / 100)
+            return Salaire_hebdomadaire(heures) 
+                    * (1 - taux_impot / 100 - taux_cotisation_retraite / 100)
                     - cotisation_assurance;
         }
     }

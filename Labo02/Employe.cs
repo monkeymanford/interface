@@ -19,17 +19,32 @@ namespace Labo02
             return $"{numero},{nom},{taux_horaire}";
         }
 
-        public float Absences(float heures)
+        public virtual float Absences(float heures)
         {
             if (heures >= 35) return 0;
             else return 35 - heures;
         }
 
-        public float Supplementaires(float heures)
+        public virtual float Supplementaires(float heures)
         {
             if (heures >= 35) return heures - 35;
             else return 0;
         }
+
+        // initialement dans la classe EmployePermanent
+        public float Salaire_hebdomadaire(float heures)
+        {
+            return (heures - Supplementaires(heures)) * taux_horaire
+                    + Supplementaires(heures) * taux_horaire * 1.5f;
+        }
+
+        // ajouté pour illustrer davantage le polymorphisme
+        public float Paie_hebdomadaire(float heures)
+        {
+            return Salaire_hebdomadaire(heures);
+        }
+
+
 
     }
 }
