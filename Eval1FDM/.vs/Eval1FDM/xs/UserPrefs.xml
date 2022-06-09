@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F9A992A1-B074-442E-8C24-3E1D098091D4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Eval1FDM PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Eval1FDM/DateFeriee.cs">
+    <Files>
+      <File FileName="Eval1FDM/Program.cs" Line="12" Column="33" />
+      <File FileName="Eval1FDM/Eval1.cs" Line="63" Column="33" />
+      <File FileName="Eval1FDM/Feriee.cs" Line="29" Column="38" />
+      <File FileName="Eval1FDM/DateFeriee.cs" Line="38" Column="10" />
+      <File FileName="Eval1FDM/Calendrier.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Eval1FDM" expanded="True">
+            <Node name="Eval1FDM" expanded="True">
+              <Node name="DateFeriee.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

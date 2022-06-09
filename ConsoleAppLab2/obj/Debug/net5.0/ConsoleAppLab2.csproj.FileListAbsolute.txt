@@ -1,0 +1,16 @@
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.csproj.AssemblyReference.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.AssemblyInfoInputs.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.AssemblyInfo.cs
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.csproj.CoreCompileInputs.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/bin/Debug/net5.0/ConsoleAppLab2.deps.json
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/bin/Debug/net5.0/ConsoleAppLab2.runtimeconfig.json
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/bin/Debug/net5.0/ConsoleAppLab2.runtimeconfig.dev.json
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/bin/Debug/net5.0/ConsoleAppLab2.dll
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/bin/Debug/net5.0/ConsoleAppLab2.pdb
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.dll
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/obj/Debug/net5.0/ref/ConsoleAppLab2.dll
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.pdb
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.genruntimeconfig.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/bin/Debug/net5.0/ConsoleAppLab2
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/ConsoleAppLab2/obj/Debug/net5.0/refint/ConsoleAppLab2.dll

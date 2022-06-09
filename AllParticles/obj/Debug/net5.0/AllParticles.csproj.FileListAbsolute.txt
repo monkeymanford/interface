@@ -1,0 +1,16 @@
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/obj/Debug/net5.0/AllParticles.csproj.AssemblyReference.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/obj/Debug/net5.0/AllParticles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/obj/Debug/net5.0/AllParticles.AssemblyInfoInputs.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/obj/Debug/net5.0/AllParticles.AssemblyInfo.cs
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/obj/Debug/net5.0/AllParticles.csproj.CoreCompileInputs.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/bin/Debug/net5.0/AllParticles
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/bin/Debug/net5.0/AllParticles.deps.json
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/bin/Debug/net5.0/AllParticles.runtimeconfig.json
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/bin/Debug/net5.0/AllParticles.runtimeconfig.dev.json
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/bin/Debug/net5.0/AllParticles.dll
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/bin/Debug/net5.0/AllParticles.pdb
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/obj/Debug/net5.0/AllParticles.dll
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/obj/Debug/net5.0/refint/AllParticles.dll
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/obj/Debug/net5.0/AllParticles.pdb
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/obj/Debug/net5.0/AllParticles.genruntimeconfig.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/AllParticles/obj/Debug/net5.0/ref/AllParticles.dll

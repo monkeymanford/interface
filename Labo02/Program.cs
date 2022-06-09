@@ -21,6 +21,8 @@ namespace Labo02
             Console.WriteLine($"validation facture montant 3420 pour 37 heures: {emp02.Valider_facture(3420,37)}");
             Console.WriteLine($"validation facture montant 3330 pour 37 heures: {emp02.Valider_facture(3330,37)}");
 
+            Console.WriteLine(0%2);
+
         }
     }
 }

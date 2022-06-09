@@ -1,0 +1,16 @@
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/bin/Debug/net5.0/Eval1FDM.deps.json
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/bin/Debug/net5.0/Eval1FDM.runtimeconfig.json
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/bin/Debug/net5.0/Eval1FDM.runtimeconfig.dev.json
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/bin/Debug/net5.0/Eval1FDM.dll
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/bin/Debug/net5.0/Eval1FDM.pdb
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/obj/Debug/net5.0/Eval1FDM.csproj.AssemblyReference.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/obj/Debug/net5.0/Eval1FDM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/obj/Debug/net5.0/Eval1FDM.AssemblyInfoInputs.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/obj/Debug/net5.0/Eval1FDM.AssemblyInfo.cs
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/obj/Debug/net5.0/Eval1FDM.csproj.CoreCompileInputs.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/obj/Debug/net5.0/Eval1FDM.dll
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/obj/Debug/net5.0/ref/Eval1FDM.dll
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/obj/Debug/net5.0/Eval1FDM.pdb
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/obj/Debug/net5.0/Eval1FDM.genruntimeconfig.cache
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/bin/Debug/net5.0/Eval1FDM
+/Users/mankimanford/Documents/School/INTERFACE/Code C#/Eval1FDM/Eval1FDM/obj/Debug/net5.0/refint/Eval1FDM.dll
